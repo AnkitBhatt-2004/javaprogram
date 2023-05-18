@@ -1,7 +1,7 @@
     import  java.util.Scanner;
 public class deletion {
 
-    public static void main(String args[]) {
+     static void main(String args[]) {
     Scanner sc = new Scanner(System.in);
     int i,j,n;
     System.out.println("Enter no of element is array");
